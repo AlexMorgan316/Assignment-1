@@ -5,9 +5,6 @@ int main () {
    
     char uppercase[26]={'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
     char lowercase[26]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-    char ch, msg1[1000], msg2[1000], msg3[1000], msg4[1500], msg5[1500];
-    char keysub[27];
-    int i, n, keyrot;
     int userin;
     
     printf("\nWELCOME TO THE ENCRYPTION AND DECRYPTION MENU\n");
